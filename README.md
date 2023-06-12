@@ -5,13 +5,13 @@
 </p>
 <!-- __ -->
 
-# Comunidad Codeando México
+# Comunidad Caminantes del desierto 
 
 ¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Codeando México.
 
-## Sobre Codeando México
+## Sobre Caminantes del desierto 
 
-Codeando México es una comunidad abierta que desarrolla tecnología para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
+Caminantes del desierto  es una comunidad abierta que desarrolla tecnología para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
 
 Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad de _Hackers Cívicos_.
 
@@ -19,11 +19,10 @@ Colaboramos con personas de todos los perfiles: activistas, periodistas, funcion
 
 ¿Quieres contribuir a proyectos o a los procesos de la comunidad? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
-- ¡Únete a la conversación en [Slack](http://slack.codeandomexico.org)! Ahí podrás conectar con más personas.
-- Aprende y entérate sobre todo lo que estamos haciendo en nuestra [plataforma de Hackers Cívicos](http://hackerscivicos.org).
+- ¡Únete a la conversación en github. Ahí podrás conectar con más personas.
 - Revisa la [sección de contribución](#contribuye-a-un-proyecto) para participar en algún proyecto o ser voluntario.
-- Organiza un Civic Hack Night o una “Activación Cívica”.
-- ¿Tienes alguna otra idea o propuesta? Compártela con la comunidad a través de Slack o puedes mandarnos un correo a [equipo@codeandomexico.org](mailto:equipo@codeandomexico.org).
+- Organiza una “Activación Cívica”.
+- ¿Tienes alguna otra idea o propuesta? Compártela con la comunidad a través de Slack o puedes mandarnos un correo a [equipo@caminantesdesierto.org](colectivo@caminantesdeldesierto.org).
 
 Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en los [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio.
 
@@ -39,7 +38,7 @@ Nuestro objetivo siempre es trabajar de la manera más transparente y colaborati
 
 ## Código de conducta
 
-En la comunidad de Codeando México nos comprometemos a que todas las actividades, eventos y foros digitales sean espacios respetuosos, incluyentes y que reconozcan el valor de todas las personas.
+En la comunidad de Caminantes del desierto  nos comprometemos a que todas las actividades, eventos y foros digitales sean espacios respetuosos, incluyentes y que reconozcan el valor de todas las personas.
 
 Seamos excelentes en todo momento y aprovechemos la diversidad de opiniones que podamos tener para seguir creciendo nuestra comunidad.
 
@@ -55,10 +54,7 @@ Puedes consultar la versión completa de nuestro [Código de Conducta aquí](htt
 
 ### De la comunidad
 
-- [Historias de comunidad](https://medium.com/codeandomexico)
-- [Glosario de Hacking Cívico](https://github.com/CodeandoMexico/comunidad/blob/master/GLOSARIO.md)
-- [Awesome Civic Tech](https://awesome-civic-tech.codeandomexico.org/)
-- [Awesome Open Data](http://github.codeandomexico.org/awesome-open-data/)
+
 
 
 ### Conocimiento general
@@ -69,10 +65,8 @@ Puedes consultar la versión completa de nuestro [Código de Conducta aquí](htt
 
 ## Redes sociales y otros canales
 
- - [Slack](http://slack.codeandomexico.org/)
- - [Facebook](https://www.facebook.com/CodeandoMexico/)
- - [Twitter](https://twitter.com/codeandomexico)
- - [Blog en Medium](https://medium.com/codeandomexico/)
+ - [Facebook](https://www.facebook.com/colectivo.caminantes.del.desierto/)
+ - [Instagram](https://www.instagram.com/cddesierto/)
 
 
 ## Inspiración
