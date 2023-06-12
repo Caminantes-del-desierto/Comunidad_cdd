@@ -1,13 +1,15 @@
 <p align="center">
+ 
 <img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Codeando México"><br>
-<a href="http://www.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
-<a href="http://slack.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
+ 
+<a href="https://www.facebook.com/colectivo.caminantes.del.desierto/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
+<a href="https://www.instagram.com/cddesierto/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
 </p>
 <!-- __ -->
 
 # Comunidad Caminantes del desierto 
 
-¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Codeando México.
+¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Caminantes del desierto .
 
 ## Sobre Caminantes del desierto 
 
@@ -24,7 +26,7 @@ Colaboramos con personas de todos los perfiles: activistas, periodistas, funcion
 - Organiza una “Activación Cívica”.
 - ¿Tienes alguna otra idea o propuesta? Compártela con la comunidad a través de Slack o puedes mandarnos un correo a [equipo@caminantesdesierto.org](colectivo@caminantesdeldesierto.org).
 
-Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en los [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio.
+Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en los [Issues](https://github.com/orgs/Caminantes-del-desierto/discussions) de este repositorio.
 
 ## Contribuye a un proyecto
 Todos nuestros proyectos son open source, esto significa que cualquiera es libre de utilizar el código, datos y otros materiales de acuerdo a la licencia que contenga. Si te interesa contribuir a un proyecto sigue estos pasos:
