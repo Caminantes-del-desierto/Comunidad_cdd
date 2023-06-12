@@ -13,7 +13,7 @@
 
 Caminantes del desierto  es una comunidad abierta que desarrolla tecnología para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
 
-Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad de _Hackers Cívicos_.
+Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad de _Hackers Ambientalistas Cívicos_.
 
 ## Comienza a colaborar
 
