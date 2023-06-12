@@ -1,6 +1,6 @@
 <p align="center">
  
-<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Codeando México"><br>
+<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Caminantes del desierto"><br>
  
 <a href="https://www.facebook.com/colectivo.caminantes.del.desierto/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
 <a href="https://www.instagram.com/cddesierto/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
