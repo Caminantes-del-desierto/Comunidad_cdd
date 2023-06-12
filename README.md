@@ -1,6 +1,6 @@
 <p align="center">
  
-<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Caminantes del desierto"><br>
+<img src="https://github.com/Caminantes-del-desierto/Comunidad_cdd/blob/master/CDD%20v4.0%202022_white.png" width="500" alt="Caminantes del desierto"><br>
  
 </p>
 <!-- __ -->
